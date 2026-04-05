@@ -13,9 +13,9 @@ The dashboard highlights key drivers of churn, customer demographics, and retent
 - Provided actionable recommendations for retention.
 
 ## 🖼️ Dashboard Preview
-![Overview Dashboard](screenshots/image%20(5).png)
-![Customer Segments](screenshots/image%20(6).png)
-![Churn Trends](screenshots/image%20(7).png)
+![Overview Dashboard](screenshot/image%20(5).png)
+![Customer Segments](screenshot/image%20(6).png)
+![Churn Trends](screenshot/image%20(7).png)
 
 ## 🚀 How to Use
 1. Download the `.pbix` file from this repository.
